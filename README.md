@@ -568,8 +568,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@SHADOWMAN454584](https://github.com/SHADOWMAN454584)
+- Email: psoham2017@gmail.com
 
 ---
 
@@ -592,6 +592,6 @@ For support, email your.email@example.com or open an issue on GitHub.
 
 **⭐ Star this repo if you find it helpful!**
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Soham M. Patil
 
 </div>
